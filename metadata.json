@@ -1,0 +1,8 @@
+{
+  "name": "Copy of المُرتجى - Al-Murtaja",
+  "description": "زاد المسلم ورفيقه - تطبيق شامل للأذكار والمواقيت والقرآن الكريم.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
